@@ -24,7 +24,7 @@
 ## 🎯 **About Me**
 
 ```javascript
-const amitWani = {
+const human = {
   name: "Sourabh Jain",
   role: "Cloud Architect @ Google Cloud India",
   location: "Mumbai, Maharashtra, India 🇮🇳",
