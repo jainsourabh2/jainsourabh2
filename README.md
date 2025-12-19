@@ -125,47 +125,6 @@ const amitWani = {
 
 ---
 
-## 📝 **Latest Blog Posts**
-
-<div align="center">
-
-> 💡 **"Sharing knowledge is the best way to learn and grow together!"**
-
-</div>
-
-### 📖 **Medium Articles** - [medium.com/@mtwn105](https://medium.com/@mtwn105)
-
-<table>
-  <tr><th>Title</th><th>Date</th></tr>
-  <!-- MEDIUM-BLOG-LIST:START --><tr><td>📚 <a href="https://medium.com/@mtwn105/built-an-ai-agent-for-zerodha-using-kite-mcp-d62ef89771dd?source=rss-b2982a15155e------2">Built an AI Agent for Zerodha Using Kite & MCP</a></td><td>Apr 16, 2025</td></tr><tr><td>📚 <a href="https://medium.com/@mtwn105/building-an-mcp-server-with-spring-boot-and-java-beff0cfe591a?source=rss-b2982a15155e------2">Building an MCP Server with Spring Boot and Java</a></td><td>Mar 22, 2025</td></tr><tr><td>📚 <a href="https://medium.com/@mtwn105/how-to-self-host-umami-a-step-by-step-guide-to-privacy-focused-web-analytics-with-docker-setup-239df47fe44a?source=rss-b2982a15155e------2">How to Self-Host Umami: A Step-by-Step Guide to Privacy-Focused Web Analytics (With Docker Setup)</a></td><td>Mar 16, 2025</td></tr><tr><td>📚 <a href="https://medium.com/@mtwn105/explore-your-github-journey-with-github-wrapped-70a0b6a6503c?source=rss-b2982a15155e------2">Explore Your GitHub Journey with GitHub Wrapped</a></td><td>Feb 12, 2025</td></tr><tr><td>📚 <a href="https://medium.com/@mtwn105/redis-performance-testing-using-redis-benchmark-160cb0410546?source=rss-b2982a15155e------2">Redis Performance Testing — Using Redis Benchmark</a></td><td>Dec 22, 2024</td></tr><!-- MEDIUM-BLOG-LIST:END -->
-</table>
-
-### 📰 **Dev.to Articles** - [dev.to/mtwn105](https://dev.to/mtwn105)
-
-<table>
-  <tr><th>Title</th><th>Date</th></tr>
-  <!-- DEVTO-BLOG-LIST:START --><tr><td>🚀 <a href="https://dev.to/mtwn105/decipherit-building-a-notebooklm-inspired-ai-research-assistant-powered-by-bright-data-ckf">DecipherIt: Building a NotebookLM-Inspired AI Research Assistant powered by Bright Data</a></td><td>May 25, 2025</td></tr><tr><td>🚀 <a href="https://dev.to/mtwn105/vibe-coded-ai-stock-analyst-with-amazon-q-in-1-hour-20hf">Vibe Coded AI Stock Analyst with Amazon Q in 1 Hour!</a></td><td>May 12, 2025</td></tr><tr><td>🚀 <a href="https://dev.to/mtwn105/audiointel-transform-audio-into-actionable-intelligence-nd8">AudioIntel - Transform Audio into Actionable Intelligence</a></td><td>Nov 25, 2024</td></tr><tr><td>🚀 <a href="https://dev.to/mtwn105/mailtales-make-emails-fun-again-5d9l">MailTales - Make Emails Fun Again!</a></td><td>Sep 02, 2024</td></tr><tr><td>🚀 <a href="https://dev.to/mtwn105/redis-performance-testing-1e57">Redis Performance Testing</a></td><td>Dec 23, 2023</td></tr><!-- DEVTO-BLOG-LIST:END -->
-
-</table>
-
-### 📝 **Personal Blog** - [blog.amitwani.dev](https://blog.amitwani.dev)
-
-<table>
-  <tr><th>Title</th><th>Date</th></tr>
-  <!-- BLOG-LIST:START --><!-- BLOG-LIST:END -->
-
-</table>
-
-### 📺 **YouTube Videos** - [youtube.com/@AmitWani](https://www.youtube.com/@AmitWani)
-
-<table>
-  <tr><th>Video</th><th>Title & Date</th></tr>
-  <!-- YOUTUBE-BLOG-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=eTll7EdQyY8"><img width="140px" src="https://img.youtube.com/vi/eTll7EdQyY8/hqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=eTll7EdQyY8">TripCraft AI - Your Journey, Perfectly Crafted with Intelligence</a><br/>Jun 01, 2025</td></tr><tr><td><a href="https://www.youtube.com/watch?v=CcfhiE4h9WY"><img width="140px" src="https://img.youtube.com/vi/CcfhiE4h9WY/hqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=CcfhiE4h9WY">🎓 I Built the Research Assistant Every Student Wishes They Had 🤖 - Powered by Bright Data &amp; CrewAI ⚡</a><br/>May 25, 2025</td></tr><tr><td><a href="https://www.youtube.com/watch?v=FP5kS3BJrLE"><img width="140px" src="https://img.youtube.com/vi/FP5kS3BJrLE/hqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=FP5kS3BJrLE">Vibe Coded AI Stock Analyst with Amazon Q in 1 Hour!</a><br/>May 12, 2025</td></tr><tr><td><a href="https://www.youtube.com/watch?v=NFYPyTkV-vo"><img width="140px" src="https://img.youtube.com/vi/NFYPyTkV-vo/hqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=NFYPyTkV-vo">Meet My Zerodha AI Agent | Built with Kite API + MCP Server 🤖📈</a><br/>Apr 16, 2025</td></tr><tr><td><a href="https://www.youtube.com/watch?v=zVAdTtqjmQo"><img width="140px" src="https://img.youtube.com/vi/zVAdTtqjmQo/hqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=zVAdTtqjmQo">GitHub Wrapped 2024 – Your Year in Code! — Your GitHub journey with a personalized year in code</a><br/>Dec 21, 2024</td></tr><!-- YOUTUBE-BLOG-LIST:END -->
-
-</table>
-
----
-
 ## 🤝 **Let's Connect & Collaborate**
 
 <div align="center">
@@ -175,31 +134,19 @@ const amitWani = {
 <table>
 <tr>
 <td align="center">
-<a href="https://linktr.ee/amitwani">
-<img src="https://img.icons8.com/color/96/000000/domain.png" width="40"/>
-<br><strong>Portfolio</strong>
-</a>
-</td>
-<td align="center">
-<a href="https://blog.amitwani.dev">
-<img src="https://img.icons8.com/color/96/000000/news.png" width="40"/>
-<br><strong>Blog</strong>
-</a>
-</td>
-<td align="center">
-<a href="https://linkedin.com/in/mtwn105">
+<a href="https://linkedin.com/in/sourabhsjain">
 <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="40"/>
 <br><strong>LinkedIn</strong>
 </a>
 </td>
 <td align="center">
-<a href="https://twitter.com/mtwn105">
+<a href="https://twitter.com/jainsourabh2">
 <img src="https://img.icons8.com/color/96/000000/twitter.png" width="40"/>
 <br><strong>Twitter</strong>
 </a>
 </td>
 <td align="center">
-<a href="mailto:mtwn105+github@gmail.com">
+<a href="mailto:jainsourabh2@gmail.com">
 <img src="https://img.icons8.com/color/96/000000/gmail.png" width="40"/>
 <br><strong>Email</strong>
 </a>
