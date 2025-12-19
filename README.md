@@ -47,13 +47,13 @@ const human = {
 ### 🌱 **Currently Learning**
 
 - 🤖 **Agentic AI** & Machine Learning
-- ☁️ **Advanced AWS Services**
+- ☁️ **Google Cloud Platform**
 
 ### 🎯 **2025 Goals**
 
 - ✅ Contribute to more Open Source projects
 - 🏗️ Build AI-powered applications
-- 📝 Write technical blogs regularly
+- 📝 Build a startup
 
 </td>
 
