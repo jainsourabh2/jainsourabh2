@@ -66,7 +66,7 @@ const amitWani = {
 
 ### 💻 **Languages & Core Technologies**
 
-![Languages](https://skills.syvixor.com/api/icons?i=java,js,ts,nodejs,py,html,css)
+![Languages](https://skills.syvixor.com/api/icons?i=js,ts,nodejs,py)
 
 ### 🚀 **Frameworks & Libraries**
 
@@ -78,11 +78,11 @@ const amitWani = {
 
 ### ☁️ **Cloud & Infrastructure**
 
-![Cloud](https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,googlecloud,azure,cloudflare,springcloud,railway,flyio,digitalocean)
+![Cloud](https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,googlecloud,azure)
 
 ### 🗄️ **Databases & Storage**
 
-![Database](https://skills.syvixor.com/api/icons?perline=15&i=postgresql,mysql,mariadb,mongodb,redis,oracle,sqlite,hibernate,prisma,drizzle,sqlalchemy)
+![Database](https://skills.syvixor.com/api/icons?perline=15&i=postgresql,mysql,mariadb,mongodb,redis,sqlite,hibernate,prisma,drizzle,sqlalchemy)
 
 ### 🔄 **DevOps & CI/CD**
 
@@ -106,7 +106,7 @@ const amitWani = {
 
 ### 🖥️ **Development Environment**
 
-![Environment](https://skills.syvixor.com/api/icons?i=linux,bash,powershell)
+![Environment](https://skills.syvixor.com/api/icons?i=linux)
 
 ### 🌐 **Platforms & Services**
 
@@ -167,9 +167,7 @@ const amitWani = {
 
 <div align="center">
 
-### ⚡ **Fun Fact:** _This developer runs on Chai (Tea) and dreams in code!_ ☕💻
-
-**Thanks for visiting! Happy coding! 🚀**
+**Thanks for visiting! Happy Learning! 🚀**
 
 ---
 
